@@ -1,5 +1,12 @@
-<h2> Hello Geeks <h2/>
+<h2> Hello Geeks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <h2/>
 <img align='center' src='https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif' width='200"'>
+
+  ## 😃 Talk to me about!!
+
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, Vue JS**
+- Backend development using **Node Js**
+- Machine Learning
+- Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/)
 
 - 👋 Hi, I’m @MennaAnees
 - 👀 I’m interested in ...
