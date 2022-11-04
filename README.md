@@ -9,9 +9,11 @@
 
 - 💻 Backend development using **Node Js**
 - 🖥️ Front-end development using **ReactJs, Redux, CSS, Vue JS**
-- 🔐 Blockchain and web3
+- 🔐 **Blockchain and web3**
 - 🔍 Currenlty learning **AWS, Go, NFT**
 
+-----
+Credits: [Menna Anees](https://github.com/MennaAnees)
 
 <!---
 MennaAnees/MennaAnees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
