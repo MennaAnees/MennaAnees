@@ -1,5 +1,9 @@
 <h2> Hello Geeks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <h2/>
 <img align='center' src='https://gist.github.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9#file-github-gif' width='200"'>
+<p align='center'>
+<a href="https://twitter.com/MennaCodesStuff"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/menna-anees/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
   ## 😃 Talk to me about!!
 
